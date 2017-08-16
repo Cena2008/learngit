@@ -8,3 +8,4 @@ git tracks changes of files
 git add a line
 creat a new branch is quick and also simple.
 git branch commit
+stash test
